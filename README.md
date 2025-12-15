@@ -38,6 +38,7 @@ No external APIs are used in this project.
 
 ## Project Structure
 
+```text
 Web-Scraping-Multiple-HTML-Tables-with-BeautifulSoup/
 │
 ├── city_tourism_web_scraping.ipynb
